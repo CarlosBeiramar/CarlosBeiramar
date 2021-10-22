@@ -11,13 +11,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosbeiramar&show_icons=true&theme=github_dark)
 
-<div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbeiramar&layout=compact&langs_count=16&theme=github_dark"
-</div>
-  
- <br>
-  <br>
-
 <div>  
   <a href = "https://www.facebook.com/carlos.beiramar/">
     <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "">
