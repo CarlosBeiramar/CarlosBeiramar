@@ -11,6 +11,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosbeiramar&show_icons=true&theme=github_dark)
 
+
+<ul>
+  <li>
 <p >Languages:</p>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = ""/>
@@ -19,18 +22,26 @@
   <img src = "	https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt ="" />
   <img src = "https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt = "" />
 </div>
+  </li>
+  
+  <li>
+    <p>Tools</p>
+    <img src = "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt = ""/>
+    <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = ""/>
+  </li>
 
-<br>
 
+<li>
 <p>Database:</p>
 <div>
   <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt = ""/>
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = ""/>
   
 </div>
+  </li>
 
-<br>
 
+<li>
 <p>Find me here:</p>
 
 <div>  
@@ -46,6 +57,9 @@
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+  </li>
+
+ </ul>
 
 
 
