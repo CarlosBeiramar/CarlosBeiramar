@@ -11,7 +11,6 @@
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbeiramar">-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosbeiramar&show_icons=true&theme=github_dark)
 
 
 <ul>
