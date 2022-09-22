@@ -1,7 +1,7 @@
 ## Hi there, I am Carlos Beiramar 👋
 
 
-### I am a Computer Science student at @ Universidade do Minho 🎓
+### I am a Software Enginner 🎓
 
 <ul>
   <li>I'm currently learning <b>HTML</b>, <b>CSS</b> and <b>Javascript</b> 👩‍💻 </li>
