@@ -3,15 +3,15 @@
 </div>
 
 <p align=center>
-**Backend Software Engineer** based in Braga with a degree in **Computer Science** and currently completing a master's degree in **Software Engineering**.  
+<b>Backend Software Engineer</b> based in Braga with a degree in <b>Computer Science</b> and currently completing a master's degree in <b>Software Engineering</b>.
 I have over 2 years of experience in the field.
 </p>
 
 <br>
 
-<p align="center">
-  ## Programming Languages
-</p>
+<div align="center">
+  <h2>Programming Languages</h2>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,haskell,java,react,kotlin,c,nodejs,mysql,postgres,mongodb,elixir&theme=dark"/>
@@ -19,9 +19,9 @@ I have over 2 years of experience in the field.
 
 <br>
 
-<p align="center">
-  ## Tools
-</p>
+<div align="center">
+  <h2>Tools</h2>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,vscode,aws,clion,django,flask,figma,gradle,latex,materialui&theme=dark"/>
@@ -30,17 +30,18 @@ I have over 2 years of experience in the field.
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" style="vertical-align: middle;" />
-  <span style="font-size:20px;"><b>carlosbeiramar@gmail.com</b></span>
+  <h2>Email</h2>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" style="vertical-align: middle;" />
+  <span style="font-size:20px;"><b>   carlosbeiramar@gmail.com</b></span>
 </div>
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://carlosbeiramar.github.io/portfolio/">
-    ## My website
+    <h2>My website</h2>
   </a>
-</p>
+</div>
 
 <br>
 
