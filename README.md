@@ -30,7 +30,9 @@ I have over 2 years of experience in the field.
 <br>
 
 <div align="center">
-  <h2>Email</h2>
+  <h2>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" style="vertical-align: middle;" />
+  </h2>
   <span style="font-size:20px;"><b>   carlosbeiramar@gmail.com</b></span>
 </div>
 
