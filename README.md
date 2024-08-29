@@ -1,72 +1,57 @@
-## Hi there, I am Carlos Beiramar 👋
 
 
-### I am a Software Enginner
-
-<ul>
-  <li>I'm currently learning <b>HTML</b>, <b>CSS</b> and <b>Javascript</b> 👩‍💻 </li>
-  <li>Email: <b>carlosbeiramar@gmail.com</b> ✉️</li>
-<hr>
-</ul>
-
-<!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbeiramar">-->
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=carlosbeiramar&show_icons=true"/>
-
-
-
-<ul>
-  <li>
-<p >Languages:</p>
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = ""/>
-  <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt = ""/>
-  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt = "" />
-  <img src = "	https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt ="" />
-  <img src = "https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt = "" />
+<div style='display: flex; align-items: center; justify-content: center;'>
+  <h1>Hi there, I am Carlos Beiramar 👋</h1>
 </div>
-  </li>
-  
-  <li>
-    <p>Tools</p>
-    <img src = "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt = ""/>
-    <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = ""/>
-  </li>
 
+<br>
+<br>
 
-<li>
-<p>Database:</p>
-<div>
-  <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt = ""/>
-  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = ""/>
-  
-</div>
-  </li>
-
-
-<li>
-<p>Find me here:</p>
-
-<div>  
-  <a href = "https://www.facebook.com/carlos.beiramar/">
-    <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "">
+<div style='display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0; padding-bottom: 50px; font-size: 20px'>
+  <p><b>Backend Software Engineer</b> based in Braga with a degree in <b>Computer Science</b> and currently completing a master's degree in <b>Software Engineering</b>.</p>
+  <p>I have over 2 years of experience in the field.</p>
+  <h3>Programming Languages:</h3>
+  <a>
+    <img src="https://skillicons.dev/icons?i=py,haskell,java,react,kotlin,c,nodejs,mysql,postgres,mongodb,elixir&theme=dark"/>
   </a>
-
-  <a href = "https://www.instagram.com/carlosbeiramar/?hl=pt">
-    <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href = "https://www.linkedin.com/in/carlos-beiramar-aa0736223/">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <h3>Tools:</h3>
+    <a>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,vscode,aws,clion,django,flask,figma,gradle,latex,materialui&theme=dark"/>
   </a>
 </div>
-  </li>
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; padding-bottom: 50px;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" style="width: 50px; height: 50px; vertical-align: middle;" />
+    <p style="margin: 0; font-size: 20px;"><b>carlosbeiramar@gmail.com</b></p>
+</div>
+<div style="display: flex; align-items: center; justify-content: center; cursor: pointer; font-size:20px; padding-bottom: 50px;">
+  <a href="https://carlosbeiramar.github.io/portfolio/">
+    <h3><u>My website</u></h3>
+  </a>
+</div>
 
- </ul>
 
 
 
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; padding-bottom: 50px;">
+  <a>
+    <img src="https://leetcard.jacoblin.cool/CarlosBeiramar" alt="LeetCode Stats" />
+  </a>
+
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosbeiramar&theme=chartreuse-dark&border_radius=10" alt="GitHub Stats" />
+  </a>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <a href="https://linkedin.com/in/carlosbeiramar">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" style="cursor: pointer;" />
+  </a>
+  <a href="https://instagram.com/carlosbeiramar">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" style="cursor: pointer;" />
+  </a>
+</div>
 
 
 
