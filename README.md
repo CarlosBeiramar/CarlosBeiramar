@@ -31,7 +31,6 @@ I have over 2 years of experience in the field.
 
 <div align="center">
   <h2>Email</h2>
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" style="vertical-align: middle;" />
   <span style="font-size:20px;"><b>   carlosbeiramar@gmail.com</b></span>
 </div>
 
