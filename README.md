@@ -39,9 +39,7 @@ I have over 2 years of experience in the field.
 <br>
 
 <div align="center">
-  <a href="https://carlosbeiramar.github.io/portfolio/">
-    <h2>My website</h2>
-  </a>
+  <h2><a href="https://carlosbeiramar.github.io/portfolio/">My website</a></h2>
 </div>
 
 <br>
